@@ -42,4 +42,4 @@ Thumbs.db
 # Ignore any local test data directories
 # (You can create a 'data/' folder locally and put your test grids in there)
 data/
-test-data/
+test-data/.devnotes/
